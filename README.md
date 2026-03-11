@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! Bem-vindo ao meu perfil! 👋
 
-<!--
-**AgraLucas98/AgraLucas98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lucas Agra. Estou em constante aprendizado no mundo da programação!
 
-Here are some ideas to get you started:
+### 💻 Sobre mim
+- Atualmente focado em aprender desenvolvimento web.
+- Interessado em criar projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Minhas Habilidades
+- HTML
+- CSS
+- JavaScript
+- Unity
+
+### 📫 Entre em contato
+- [LinkedIn](https://www.linkedin.com/in/lucas-agra-5311b326a)
+
+### 📊 Minhas estatísticas
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AgraLucas98&layout=compact&theme=radical)
+
+![Estatisticas](https://github-readme-stats.vercel.app/api?username=AgraLucas98&show_icons=true&theme=radical)
