@@ -3,7 +3,7 @@
 Meu nome é Lucas Agra. Estou em constante aprendizado no mundo da programação!
 
 ### 💻 Sobre mim
-- Atualmente focado em aprender desenvolvimento web.
+- Atualmente focado em aprender front-end.
 - Interessado em criar projetos práticos.
 
 ### 🛠️ Minhas Habilidades
